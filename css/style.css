@@ -12,18 +12,18 @@ nav {
 }
 
 h1 {
-  font-size: 2em;
-  line-height: 1.25;
+  font-size: 3em;
+  line-height: 1.5;
 }
 
 h3 {
-  font-size: 1.5em;
-  line-height: 1.25;
+  font-size: 1.75em;
+  line-height: 1.4;
 }
 
 p {
-  font-size: 100%;
-  line-height: 1.25;
+  font-size: 125%;
+  line-height: 1.35;
 }
 
 .logo {
@@ -77,10 +77,6 @@ a:link {
 
 a:hover {
   color:#0000cf;
-}
-
-a:visited {
-  color:#000000;
 }
 
 a:active {
