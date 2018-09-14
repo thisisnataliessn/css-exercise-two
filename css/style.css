@@ -69,10 +69,7 @@ article {
 
 a {
   text-decoration: none;
-}
-
-a:link {
-  color:#0000ee;
+  color: #0000ee;
 }
 
 a:hover {
