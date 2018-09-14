@@ -73,7 +73,8 @@ a {
 }
 
 a:hover {
-  color:#0000cf;
+  text-decoration: underline;
+  color:#0000ee;
 }
 
 a:active {
